@@ -19,7 +19,7 @@
     "highcharts": "^9.1.2",
     "highcharts-react-official": "^3.0.0",
     "history": "^4.7.2",
-    "lodash": ">=4.6.2",
+    "lodash": ">=4.17.21",
     "marked": "^2.0.3",
     "moment": "^2.24.0",
     "p-queue": "^6.6.1",
